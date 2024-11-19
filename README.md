@@ -32,7 +32,7 @@ Vamos colaborar! Sinta-se à vontade para explorar meus repositórios e entrar e
 # 📊 GitHub Stats:
 ![GIT STATS](https://github-readme-stats.vercel.app/api?username=DBdanilo&Macedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DBdanilo&Macedo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DBdanilo&Macedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo&Macedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![CONQUISTA](https://github-profile-trophy.vercel.app/?username=DBdanilo&Macedo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
