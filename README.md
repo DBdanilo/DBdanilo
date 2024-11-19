@@ -1,30 +1,28 @@
 # peril
 personalização de perfil
 # 💫 About Me:
-incluir conhecimento sobre governança e devops e devsecops
-Claro! Aqui está a descrição atualizada incluindo conhecimento sobre governança, DevOps e DevSecOps:
+## 👨‍💻 Sobre Mim
 
-👨‍💻 Sobre Mim
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com residência em **Ciência de Dados** pela [Universidade Estadual do Ceará (UECE)](https://www.uece.br/) e especialização em **Sistemas Embarcados** pelo [Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)](https://www.ifce.edu.br/). Atuo como desenvolvedor **Fullstack** com foco no backend, apaixonado por criar soluções inovadoras. 🚀
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com residência em Ciência de Dados pela Universidade Estadual do Ceará (UECE) e especialização em Sistemas Embarcados pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atuo como desenvolvedor Fullstack com foco no backend, apaixonado por criar soluções inovadoras. 🚀
+## 📊 Expertise Técnica
 
-📊 Expertise Técnica
+- **Fullstack Development (Foco no Backend)**: Experiência sólida no desenvolvimento de aplicações web e móveis.
+- **Ciência de Dados**: Conhecimento aprofundado em análise de dados, machine learning e estatística.
+- **Sistemas Embarcados**: Projetos robustos utilizando Raspberry Pi e outras plataformas.
+- **Low Code Development**: Criação de soluções rápidas e eficientes com plataformas de low code.
+- **Suporte e Infraestrutura**: Experiência em suporte técnico e gestão de infraestrutura de TI.
+- **Governança de TI**: Práticas de governança para garantir alinhamento estratégico e eficiência operacional.
+- **DevOps**: Implementação de práticas de CI/CD para melhorar a entrega contínua de software.
+- **DevSecOps**: Integração de segurança ao longo de todo o ciclo de desenvolvimento de software.
 
-Fullstack Development (Foco no Backend): Experiência sólida no desenvolvimento de aplicações web e móveis.
+## 🌱 O Que Estou Fazendo Atualmente
 
-Ciência de Dados: Conhecimento aprofundado em análise de dados, machine learning e estatística.
+Atualmente, estou me divertindo com projetos em **Raspberry Pi** e explorando novas ferramentas de **low code**. Sempre em busca de aprender algo novo e aplicar meu conhecimento em projetos desafiadores.
 
-Sistemas Embarcados: Projetos robustos utilizando Raspberry Pi e outras plataformas.
+## 📫 Conecte-se Comigo
 
-Low Code Development: Criação de soluções rápidas e eficientes com plataformas de low code.
-
-Suporte e Infraestrutura: Experiência em suporte técnico e gestão de infraestrutura de TI.
-
-Governança de TI: Práticas de governança para garantir alinhamento estratégico e eficiência operacional.
-
-DevOps: Implementação de práticas de CI/CD para melhorar a entrega contínua de software.
-
-DevSecOps: Integração de segurança ao longo de todo o ciclo de desenvolvimento de software.
+Vamos colaborar! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deiqowfktmo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danilomacedo739) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-b-739423205/) 
