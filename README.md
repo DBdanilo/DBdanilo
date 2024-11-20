@@ -35,7 +35,7 @@ Vamos colaborar! Sinta-se à vontade para explorar meus repositórios e entrar e
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DBdanilo&Macedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
-![CONQUISTA](https://github-profile-trophy.vercel.app/?username=DBdanilo&Macedo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![CONQUISTA](https://github-profile-trophy.vercel.app/?username=DBdanilo&Macedo&theme=dark&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
