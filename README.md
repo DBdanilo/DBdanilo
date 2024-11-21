@@ -1,6 +1,6 @@
 # peril 
 personalização de perfil
-# 💫 About Me:
+# 💫 About Me: 
 ## 👨‍💻 Sobre Mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**, com residência em **Ciência de Dados** pela [Universidade Estadual do Ceará (UECE)](https://www.uece.br/) e especialização em **Sistemas Embarcados** pelo [Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)](https://www.ifce.edu.br/). Atuo como desenvolvedor **Fullstack** com foco no backend, apaixonado por criar soluções inovadoras. 🚀
